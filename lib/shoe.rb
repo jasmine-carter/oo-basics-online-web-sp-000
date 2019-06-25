@@ -8,6 +8,7 @@ attr_reader :brand
   end
 
   def cobble
+    puts "Your shoe is good as new!"
   end
   
 end
